@@ -4,11 +4,9 @@
 
 ## WHO ARE WE ?
 
-```txt
 
 Udicti is a student-led  Innovation unit at the College of Information and Communication Technologies present in the University Of Dar es salaam that focuses on building a tech-preneurial mindset , support students to build tech products and commercialize them. It also works to  build tech-skills to students that will match them with the Industrial Standards with a clear aim of ensuring  they fit and adapt to the competitive high skilled global tech-job market inreturn secure jobs easily and faster.
 
-```
 
 ## OUR PROGRAMS
 
@@ -23,16 +21,16 @@ Udicti is a student-led  Innovation unit at the College of Information and Commu
 
 ## How to Join ?
 
-- [x] We usually have info sessions in the first and second month of every new academic year where we create a mass awareness on our community , programs, its' impact, how can you benefit and why you should be part of it.
-- [x]The Info-sessions are widely announced through different communication channels.
-- [x]During and after the Info-sessions we issue application forms that students will apply to join our community and take part in our programs.
+- We usually have info sessions in the first and second month of every new academic year where we create a mass awareness on our community , programs, its' impact, how can you benefit and why you should be part of it.
+- The Info-sessions are widely announced through different communication channels.
+- During and after the Info-sessions we issue application forms that students will apply to join our community and take part in our programs.
 
 ## What to expect ?
 
-- [x]Chance to learn , unlearn and relearn different knowledge attributes from tech-skills , entrepreneurial mindsets to building and be part of a community.
-- [x]Networking with industrial experts , entrepreneurs i.e co-founders , Venture Capitalists etc.
-- [x]Practical hand experience on learning tech-skills and and build tech-businesses.
-- [x]Fun experience , meet new people , nurture new bonds.
+- [x] Chance to learn , unlearn and relearn different knowledge attributes from tech-skills , entrepreneurial mindsets to building and be part of a community.  
+- [x] Networking with industrial experts , entrepreneurs i.e co-founders , Venture Capitalists etc.  
+- [x] Practical hand experience on learning tech-skills and and build tech-businesses.  
+- [x] Fun experience , meet new people , nurture new bonds.  
 
 ## Communication
 

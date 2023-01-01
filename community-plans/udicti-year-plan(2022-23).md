@@ -13,13 +13,11 @@ They will be introduced to the hub for the first year during orientation week, w
 
 During the orientation, the students will have to apply to get a chance to be in Udicti Community. Why will they apply, it's because we want to filter the best, most determined, and disciplined members. 
 
-This application will be open to all students, as we discussed earlier it’s wise to move with the second year and above because they are already familiar with University life and will have a high chance of already figuring out what they want to do.
-
-Despite this, this will not hinder serious first-year students from getting into the program.
+This application is be open to all students that fit the designed criterias that will be enlisted in the application form.
 
 When we officially Open We will drill the plan as follows:
 
-This program we have partenered with **StartHubAfrica** in training students on tech-preneurship.
+This program currently , we have partenered with **StartHubAfrica** in training students on tech-preneurship.
 
 | Duration(When ?)   | Activity   |  Explanation  | Deliverables     |
 |---|---|---|---|
@@ -35,14 +33,14 @@ Now semester one is over.
 But apart from that they will be other hub activities
 Also , in the startup section we shall only take 12 teams, others will fall into capacity building
 
-We plan to have corporate sessions after every 2 weeks where we will invite someone from the corporate world to share his / her experience and skills in the ICT and Innovation Ecosystem in different fields. 
+Looking forward to have corporate sessions after every 2 weeks where we will invite someone from the corporate world to share his / her experience and skills in the ICT and Innovation Ecosystem in different fields. 
 
 
 This will be on Saturdays. (snacks , drinks , projector )
 
 This aims at building networks , creating mentors and increasing exposure and integrating the University Hub with other stakeholders of the ecosystem.
 
-And in a semester there will be 3 hackathons(Hackathons are short technological competitions that aim at capacity building and test the ability of individuals to solve problems efficiently in a short period of time)
+And in a semester there will be atleast 3 hackathons(Hackathons are short technological competitions that aim at capacity building and test the ability of individuals to solve problems efficiently in a short period of time)
             (projector, snacks , drinks and prize money)
 
 # SEMESTER TWO
@@ -64,9 +62,6 @@ Other Activities
 - Innovation Week Dodoma Edition x Makisatu
 - Stakeholders conferences, networking sessions, hackathons and incubation programs
 (All these activities require active participation and some require funds to facilitate active participation )
-- My suggestion is to set aside funds for students to participate in these innovation programs from the ecosystem.
-Other Activities
-
 - To have an  ICT Career and Startup Fair
 (This fair will be in week 13 )
 - Briefly the fair will aim at linking together the corporate world , other stakeholders of the innovation ecosystem to showcase products , talents , skills and network.
@@ -84,9 +79,7 @@ They will have an info session, which doesn’t account for the 15 weeks of a re
 
 During the orientation, they will have to apply to get a chance to be in Udicti Community. (in the Upskilling program specifically ) Why will they apply, it's because we want to filter the best, most determined, and disciplined members. 
 
-This application will be open to all students, will focus on the second year and above because they are already familiar with University life and will have a high chance of already figuring out what they want to do.
-
-Despite this, this will not hinder serious first-year students from getting into the program.
+This application will be open to all students that fit the criteria enlisted on the application forms.
 
 When we officially Open We will drill the plan as follows:
 
